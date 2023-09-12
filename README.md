@@ -13,6 +13,6 @@ Spatial and Non Spatial, Geospatial Data Analysis, Map Designing, Documenting an
 - Performed basic analysis of spatial data using GIS software, inclusing assesing positional accuracy of collected data
 - Applied map design principles to interactive web maps, including colour, contrast, symbolofy and labelling
 - Applied filtering and simple scripts to modify the appearance of data in an interactive map
-- Document and report on all stages of the data collection/creation and analysis process
+- Documented and report on all stages of the data collection/creation and analysis process
 
   
