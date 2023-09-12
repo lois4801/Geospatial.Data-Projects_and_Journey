@@ -1,7 +1,7 @@
 # Geospatial.Data-Projects_and_Journey
 Spatial and Non Spatial, Geospatial Data Analysis, Map Designing, Documenting and Reporting, Workflow and Asset Management
 
-## I thank you to all of my private and exlusive sponsors for this opportunity to be able to tap, learn, and join the projects about GIS
+## Thanks to all of my private and exlusive sponsors for this opportunity to be able to join the projects and learn more about GIS
 -----------------------------------------------------------------------------------------------------------
 # Journey
 ## 1. GEOSPATIAL DATA
