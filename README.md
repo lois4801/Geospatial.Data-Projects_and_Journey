@@ -16,3 +16,4 @@ Spatial and Non Spatial, Geospatial Data Analysis, Map Designing, Documenting an
 - Documented and report on all stages of the data collection/creation and analysis process
 
   
+![Screenshot 2023-09-14 204534](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/b197d106-ae8d-4617-b70d-e499c57bdece)
