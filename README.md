@@ -24,7 +24,12 @@ Spatial and Non Spatial, Geospatial Data Analysis, Map Designing, Documenting an
 - Applied filtering and simple scripts to modify the appearance of data in an interactive map
 - Documented and report on all stages of the data collection/creation and analysis process
 
-  
+
+  -----------------------------------------------------------------------------------------------
+Issues and Questions During the Formulation of the Projects.
+
+1. What are some appropriate and innapropriate data collection methods?
+2. Can data gathered by those methods be considered valuable for analysis?
 
 
 
