@@ -4,6 +4,12 @@ Spatial and Non Spatial, Geospatial Data Analysis, Map Designing, Documenting an
 ## Thanks to all of my private and exlusive sponsors for this opportunity to be able to join the projects and learn more about GIS
 -----------------------------------------------------------------------------------------------------------
 # Journey
+
+## GIS- Geographical Information System
+- Components->> Software, hardware, Geospatial Data, GIS Analyst
+- Computer based storage, retrieval, analysis, manipulation, and visualization of location-based data
+-  GIS has many types of methods, and techniques for collecting, analyzing, modeling and visualizing geospatial data.
+
 ## 1. GEOSPATIAL DATA
 - Selected appropriate data types for data collection or creation
 - Identified the non-spatial information that is needed for a specifc application
@@ -17,3 +23,5 @@ Spatial and Non Spatial, Geospatial Data Analysis, Map Designing, Documenting an
 
   
 ![Screenshot 2023-09-14 204534](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/b197d106-ae8d-4617-b70d-e499c57bdece)
+
+
