@@ -8,7 +8,7 @@ Laryssa, Raveen, Jamal ......
 
 ## 5 Projects incoming--in progress- stay tuned
 ------------------------------------------------------
-## Issues and Questions during my Project Formulation.
+## Issues and Questions and Troubleshooting during my Project Formulation.
 
 1. What is the scope of the project? who are my audience? who are the participants?
 2. What are some appropriate and innapropriate data collection methods?
