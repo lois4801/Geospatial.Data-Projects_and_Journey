@@ -57,7 +57,7 @@ Laryssa, Raveen, Jamal ......
 
 ![Screenshot 2023-09-16 130214](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/abed092c-32d1-4018-98c9-d9212a0066cf)
 
-- If added data is already present a geodatabase, then I dont need to add precision and scale
+- If added data is already present in the geodatabase, then I dont need to add precision and scale
 
 
 
