@@ -53,7 +53,8 @@ Laryssa, Raveen, Jamal ......
   -----------------------------------------------------------------------------------------
 ## Geometry Area Calculation- Using Attribute Selection
 
-![image](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/60664d32-472f-441a-a174-8934f08abc5e)
+![Calculating Geometry](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/9e00ecd6-d9f1-475c-92f8-024855c6fa70)
+
 
 
 
