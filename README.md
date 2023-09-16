@@ -49,7 +49,7 @@ Laryssa, Raveen, Jamal and the whole gang......
 - Used relational database for vector data management.
 - Applied appropriate data classification methods to different types of data sets and for different purposes.
 - Performed simple image classification.
-- Developed solutions using vector and raster analysis
+- Developed solutions using vector and raster analysis.
   
   -----------------------------------------------------------------------------------------
 ## Geometry Area Calculation
