@@ -51,6 +51,9 @@ Laryssa, Raveen, Jamal ......
 - Developed solutions using vector and raster analysis
 
   -----------------------------------------------------------------------------------------
+## Geometry Area Calculation- Using Attribute Selection
+
+![image](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/60664d32-472f-441a-a174-8934f08abc5e)
 
 
 
