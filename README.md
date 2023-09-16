@@ -28,7 +28,7 @@ Spatial and Non Spatial, Geospatial Data Analysis, Map Designing, Documenting an
 
 
   -----------------------------------------------------------------------------------------------
-## Issues and Questions during the Formulation of the Projects.
+## Issues and Questions during my Project Formulation.
 
 1. What is the scope of the project? who are my audience? who are the participants?
 2. What are some appropriate and innapropriate data collection methods?
