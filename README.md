@@ -1,10 +1,10 @@
 # Geospatial.Data-Projects_and_Journey
 Spatial and Non Spatial, Geospatial Data Analysis, Map Designing, Documenting and Reporting, Workflow and Asset Management
 
-## Thanks to all of my private and exlusive sponsors for this opportunity to be able to join and present my GIS projects. Most specially to learn more about GIS with all the PROS on the field. Super happy to join you guys- Laryssa, Raveen, Jamal ......  ^_^. 
+## Thanks to all of my private and exlusive sponsors for this opportunity to be able to join and present my GIS projects. Most specially to learn more about GIS from all the PROS on the field. Super happy to join you guys- Master Rafik, Master Kamal, Master Samir-   ^_^. 
 
 ## Let's crushed it!!!
-
+Laryssa, Raveen, Jamal ......
 
 ## 5 Projects incoming-- it is still in the planning stage---  stay tuned
 -----------------------------------------------------------------------------------------------------------
