@@ -25,6 +25,7 @@ Laryssa, Raveen, Jamal and the whole gang......
 ---------------------------------------------------------------------------------------------
 
 ## GIS- Geographical Information System
+- Designed to capture, store, manipulate, analyze,manage and present
 - Components->> Software, hardware, Geospatial Data, GIS Analyst
 - Computer based storage, retrieval, analysis, manipulation, and visualization of location-based data
 -  GIS has many types of methods, and techniques for collecting, analyzing, modeling and visualizing geospatial data.
