@@ -28,10 +28,13 @@ Spatial and Non Spatial, Geospatial Data Analysis, Map Designing, Documenting an
 
 
   -----------------------------------------------------------------------------------------------
-## Issues and Questions During the Formulation of the Projects.
+## Issues and Questions during the Formulation of the Projects.
 
 1. What are some appropriate and innapropriate data collection methods?
 2. Can data gathered by those methods be considered valuable for analysis?
+3. how is the data stored?
+4. Multiple Layer Analysis?
+5. Geospatial database vs Geodatabase?
 
 
 
