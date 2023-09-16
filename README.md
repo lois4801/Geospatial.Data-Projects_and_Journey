@@ -33,10 +33,13 @@ Spatial and Non Spatial, Geospatial Data Analysis, Map Designing, Documenting an
 1. What is the scope of the project? who are my audience? who are the participants?
 2. What are some appropriate and innapropriate data collection methods?
 3. Can data gathered by those methods be considered valuable for analysis?
-4. how is the data stored?
+4. How is the data stored?
 5. Multiple Layer Analysis?
 6. Geospatial database vs Geodatabase?
 7. What is the overlay method employed or should be employed?
+8. How near or far are other features of the same type? 
+9. What other types of features are nearby? 
+10. How do nearby features affect one another? 
 
 
 
