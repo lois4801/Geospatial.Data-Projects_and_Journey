@@ -5,7 +5,7 @@ Spatial and Non Spatial, Geospatial Data Analysis, Map Designing, Documenting an
 - Thank you for entrusting me this 25grand dollars software. I will definitely make a good use of  it and maximize its fullest potential ehehehhehe
 
 ## Let's crushed it!!!
-Laryssa, Raveen, Jamal ......
+Laryssa, Raveen, Jamal and the whole gang......
 
 ## 5 Projects incoming--in progress- stay tuned
 ------------------------------------------------------
