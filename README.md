@@ -6,7 +6,7 @@ Spatial and Non Spatial, Geospatial Data Analysis, Map Designing, Documenting an
 ## Let's crushed it!!!
 Laryssa, Raveen, Jamal ......
 
-## 5 Projects incoming-- it is still in the planning stage---  stay tuned
+## 5 Projects incoming--in progress- stay tuned
 ------------------------------------------------------
 ## Issues and Questions during my Project Formulation.
 
