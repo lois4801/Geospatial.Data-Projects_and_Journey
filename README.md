@@ -57,10 +57,17 @@ Laryssa, Raveen, Jamal and the whole gang......
 
 ![Calculating Geometry](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/9e00ecd6-d9f1-475c-92f8-024855c6fa70)
 
+- If added data is already present in the geodatabase, then I dont need to add precision and scale
+  
 ![Screenshot 2023-09-16 130214](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/abed092c-32d1-4018-98c9-d9212a0066cf)
 
-- If added data is already present in the geodatabase, then I dont need to add precision and scale
+- Area Selection using my SQL skills and properly identifying the area
 
+![SQL- area selection](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/12f9d18b-042c-4693-974f-9c1c755d8db0)
+
+- Computing the area in HA
+  
+![computing the area](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/618317e2-cda9-4977-80bf-e5301c70f70d)
 
 
 
