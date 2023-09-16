@@ -51,9 +51,13 @@ Laryssa, Raveen, Jamal ......
 - Developed solutions using vector and raster analysis
 
   -----------------------------------------------------------------------------------------
-## Geometry Area Calculation- Using Attribute Selection
+## Geometry Area Calculation
 
 ![Calculating Geometry](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/9e00ecd6-d9f1-475c-92f8-024855c6fa70)
+
+![Screenshot 2023-09-16 130214](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/abed092c-32d1-4018-98c9-d9212a0066cf)
+
+- If added data is already present a geodatabase, then I dont need to add precision and scale
 
 
 
