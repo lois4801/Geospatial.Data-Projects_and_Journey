@@ -75,7 +75,7 @@ Laryssa, Raveen, Jamal and the whole gang......
 - Set up ArcGIS online with data animation, web mapping, and visualization.
 - Converted a GIS-related problem into a solution using the skills above and present the solution.
 
-  ## GIS DATA COLLECTION TECHNOLOGIES/TECHNIQUES
+## 4. GIS DATA COLLECTION TECHNOLOGIES/TECHNIQUES
   - Assessed different types of open source and commercial data collection tools and technology.
   - Set up account and use open and citizen science data collection platform for data collection.
   - Identified form-based versus map based data collection platforms.
@@ -86,7 +86,15 @@ Laryssa, Raveen, Jamal and the whole gang......
   - Documented processes and procedures regarding to get certification in drone operations (Unmanned aerial vehicle - UAV Technology) and GISP certification.
   - Converted ideas into solutionm, related to data collection tools and platforms.
 
-  5. 
+## 5. GIS WORKFLOW AND ASSET MANAGEMENT
+- Created a GIS-based asset management solution using various products.
+- Created a geodatabase and design relationships in the database.
+- Configured data layers to allow the attachment of photos for asset-based information collection.
+- Selecte the appropriate data type based on the assets.
+- Evaluated software tools in the ARCGIS system, including mobile and webapp, and apply appropriate tools to solve an organizational need.
+- Developed solutions to asset management issues and present them.
+- Applied basic principles of project management to asset management scenarios.
+
 ---------------------------------------------------------------------
 ## Skills Acquistion
 
@@ -119,7 +127,15 @@ Laryssa, Raveen, Jamal and the whole gang......
    - Understanding Databases and Data Collection Platforms
    - UAV's for Data Collection and its applications
    - Visualizing UAV Data and Preparing for Drone Pilot and GISP Certification
-   - Information, security, ethics 
+   - Information, security, ethics principles and studies
+
+5. GIS Workflow and Asset Managemet
+   - Asset Management Basics, Princples, and GIS Roles
+   - Asset Management Decision Support Tools, Technology, Life Cycle and Industry
+   - Relational Databases and Asset Management
+   - Database and Asset Management
+   - Asset Inspection and Project Management
+   - Asset Integration, Privacy, Policy and Ethics
 
   -----------------------------------------------------------------------------------------
 ## Geometry Area Calculation
