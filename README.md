@@ -1,7 +1,8 @@
 # Geospatial.Data-Projects_and_Journey
 Spatial and Non Spatial, Geospatial Data Analysis, Map Designing, Documenting and Reporting, Workflow and Asset Management
 
-- Thanks to all of my private and exlusive sponsors for this opportunity to be able to join and present GIS projects. Most specially to learn more about GIS from all the PROS on the field. Special Shoutout to Master Rafik, Master Kamal, Master Samir-   ^_^.
+- Thanks to all of my private and exlusive sponsors for this opportunity to be able to join and present GIS projects. Most specially to learn more about GIS from all the PROS on the field.
+- Special Shoutout to Master Rafik, Master Kamal, Master Samir-   ^_^.
 - Thank you for entrusting me this 25grand dollars software. I will definitely make a good use of  it and maximize its fullest potential ehehehhehe
 
 ## Let's crushed it!!!
@@ -73,6 +74,19 @@ Laryssa, Raveen, Jamal and the whole gang......
 - Used ArcGIS Tracker using ArcGIS online solution.
 - Set up ArcGIS online with data animation, web mapping, and visualization.
 - Converted a GIS-related problem into a solution using the skills above and present the solution.
+
+  ## GIS DATA COLLECTION TECHNOLOGIES/TECHNIQUES
+  - Assessed different types of open source and commercial data collection tools and technology.
+  - Set up account and use open and citizen science data collection platform for data collection.
+  - Identified form-based versus map based data collection platforms.
+  - Used ESRI based solutions (Field map, Survey 123, etc.) to help meet organizational data collection needs.
+  - Documented how to plan for GPS and RTK based data collection.
+  - Created, editted, and visualizaed collected data in a format that allows for presentation.
+  - Accessed, manipulate and apply drone-based data to create products.
+  - Documented processes and procedures regarding to get certification in drone operations (Unmanned aerial vehicle - UAV Technology) and GISP certification.
+  - Converted ideas into solutionm, related to data collection tools and platforms.
+
+  5. 
 ---------------------------------------------------------------------
 ## Skills Acquistion
 
@@ -84,7 +98,7 @@ Laryssa, Raveen, Jamal and the whole gang......
    - Data Visualization and map designing
    - Spatial Data Analysis
      
-3. Geospatial Data Analysis
+2. Geospatial Data Analysis
    - GIS application, Vector and Raster Analysis Basics
    - Raster Data Modeling and Geoprocessing
    - Raster and Terrain Analysis- Hydrologic Modelling
@@ -92,12 +106,20 @@ Laryssa, Raveen, Jamal and the whole gang......
    - Remote Sensing and Image Classification
    - Privacy, Policy and Ethics studies
   
-5. Advance Geospatial Analys
+3. Advance Geospatial Analys
    - Geoprocessing automation and spatial interpolation
    - Areal Interpolation (MAUP) and Demographic Analysis
    - GIS in Health and Business Applications and Network Analysis
    - Role of Machine Learning and Visualization including OPEN DATA
    - Enterprise GIS System, Privacy, Policy, and Ethics
+  
+4. GIS Data Collection Technologies/Techniques
+   - Spatial Data Collection Platforms, Citizen Science, and Volunteer GIS
+   - GIS Data Collection Tools and Technology- Designing a complete solution
+   - Understanding Databases and Data Collection Platforms
+   - UAV's for Data Collection and its applications
+   - Visualizing UAV Data and Preparing for Drone Pilot and GISP Certification
+   - Information, security, ethics 
 
   -----------------------------------------------------------------------------------------
 ## Geometry Area Calculation
