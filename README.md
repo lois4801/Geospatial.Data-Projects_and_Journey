@@ -29,6 +29,18 @@ Laryssa, Raveen, Jamal and the whole gang......
 - Components->> Software, hardware, Geospatial Data, GIS Analyst
 - Computer based storage, retrieval, analysis, manipulation, and visualization of location-based data
 -  GIS has many types of methods, and techniques for collecting, analyzing, modeling and visualizing geospatial data.
+------------------------------------------------------------------------------------
+## Location Intelligence Applications:
+
+- •Telecommunications: Telecommunication companies use location intelligence to help with network planning.
+- • Governments: Government agencies use location intelligence to help determine when and where to place law enforcement to prevent crime.
+- • Healthcare: The healthcare sector uses location intelligence to forecast growth to assist with market segmentations.
+- • Retail and Hospitality Business: Retail and hospitality businesses use the technology to help determine site locations and to profile consumers.
+- • Real Estate: Real estate also uses location intelligence to help dictate site location and to determine the type of real estate.
+
+
+------------------------------------------------------------------------------------
+# EXPERIENCE-->> GOALS
 
 ## 1. GEOSPATIAL DATA
 - Selected appropriate data types for data collection or creation
