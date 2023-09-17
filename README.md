@@ -52,6 +52,25 @@ Laryssa, Raveen, Jamal and the whole gang......
 - Performed simple image classification.
 -  Developed solutions using vector and raster analysis.
 
+## 3. ADVANCED GEOSPATIAL ANALYSIS
+- Set up advanced models using model builder using GIS desktop software.
+- Created GIS python scripts from models and ArcToolbox using built-in functionalities of GIS software.
+- Used spatial interpolation methods within spatial statistics toolsets for interpolation methods and understand related terminologies such as semivariogram modelling.
+- Completed a Kriging model using spatial interpolation techniques.
+- Use data, based on SimplyAnaltyics, to extract demographic and socioeconomic data for decision support systems.
+- Used ArcGIS Tracker using ArcGIS online solution.
+- Set up ArcGIS online with data animation, web mapping, and visualization.
+- Converted a GIS-related problem into a solution using the skills above and present the solution.
+---------------------------------------------------------------------
+## Skills Acquistion
+1. Geospatial Data
+2. Geospatial Data Analysis
+3. Advance Geospatial Analys
+   - Geoprocessing automation and spatial interpolation
+   - Areal Interpolation (MAUP) and Demographic Analysis
+   - GIS in Health and Business Applications and Network Analysis
+   - Role of Machine Learning and Visualization including OPEN DATA
+   - Enterprise GIS System, Privacy, Policy, and Ethics
 
   -----------------------------------------------------------------------------------------
 ## Geometry Area Calculation
