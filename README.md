@@ -155,14 +155,14 @@ Laryssa, Raveen, Jamal and the whole gang......
 ![computing the area](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/618317e2-cda9-4977-80bf-e5301c70f70d)
 
 
-## Analysing the Integrity and Quality of my Data Prior to Editing and making changes
+## Analysing the Integrity and Quality of my Data Prior to Editing and Animating for Presentation
 
 ![Screenshot 2023-09-17 094738](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/5e71d69a-1d39-4857-afcf-ff98e6efd617)
 
 
 ![Screenshot 2023-09-17 094751](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/ab5dc02d-2511-4298-ab13-e8e629c0e8b3)
 
-https://secetmcs.maps.arcgis.com/home/webscene/viewer.html?layers=87618f83d50640ba8be86493fd49b901 
+https://drive.google.com/file/d/15P-3mEyimaqKNkHr8xfjXN5tlsg3jMEi/view?usp=sharing
 
 
 
