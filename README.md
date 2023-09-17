@@ -51,7 +51,7 @@ Laryssa, Raveen, Jamal and the whole gang......
 - Performed basic analysis of spatial data using GIS software, inclusing assesing positional accuracy of collected data
 - Applied map design principles to interactive web maps, including colour, contrast, symbology and labelling
 - Applied filtering and simple scripts to modify the appearance of data in an interactive map
-- Documented and report on all stages of the data collection/creation and analysis process
+- Documented and reported on all stages of the data collection/creation and analysis process
 
 ## 2. GEOSPATIAL DATA ANALYSIS
 - Completed vector analysis using spatial analysis tools (such as buffer analysis, clip analysis, proximity analyses).
