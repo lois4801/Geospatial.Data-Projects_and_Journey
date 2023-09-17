@@ -168,6 +168,8 @@ https://drive.google.com/file/d/19y6_zJNs8susx97xtr0UyFFsGXj--3VK/view?usp=drive
 
 ![Screenshot 2023-09-17 105448](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/be9493bd-7664-4522-b3e0-ea9eacb297a7)
 
+- MY BLOG
+  https://arcg.is/SniuT 
 
 
 
