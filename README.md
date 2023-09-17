@@ -32,11 +32,11 @@ Laryssa, Raveen, Jamal and the whole gang......
 ------------------------------------------------------------------------------------
 ## Location Intelligence Applications:
 
-- •Telecommunications: Telecommunication companies use location intelligence to help with network planning.
-- • Governments: Government agencies use location intelligence to help determine when and where to place law enforcement to prevent crime.
-- • Healthcare: The healthcare sector uses location intelligence to forecast growth to assist with market segmentations.
-- • Retail and Hospitality Business: Retail and hospitality businesses use the technology to help determine site locations and to profile consumers.
-- • Real Estate: Real estate also uses location intelligence to help dictate site location and to determine the type of real estate.
+- Telecommunications: Telecommunication companies use location intelligence to help with network planning.
+- Governments: Government agencies use location intelligence to help determine when and where to place law enforcement to prevent crime.
+- Healthcare: The healthcare sector uses location intelligence to forecast growth to assist with market segmentations.
+- Retail and Hospitality Business: Retail and hospitality businesses use the technology to help determine site locations and to profile consumers.
+- Real Estate: Real estate also uses location intelligence to help dictate site location and to determine the type of real estate.
 
 
 ------------------------------------------------------------------------------------
