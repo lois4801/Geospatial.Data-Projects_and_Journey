@@ -76,8 +76,14 @@ Laryssa, Raveen, Jamal and the whole gang......
 ---------------------------------------------------------------------
 ## Skills Acquistion
 1. Geospatial Data
-2. Geospatial Data Analysis
-3. Advance Geospatial Analys
+   - GIS Basics
+   - Data Modeling
+   - Coordinate Systems and projections
+   - Finding, collecting and documenting data
+   - Data Visualization and map designing
+   - Spatial Data Analysis
+3. Geospatial Data Analysis
+4. Advance Geospatial Analys
    - Geoprocessing automation and spatial interpolation
    - Areal Interpolation (MAUP) and Demographic Analysis
    - GIS in Health and Business Applications and Network Analysis
