@@ -164,9 +164,7 @@ Laryssa, Raveen, Jamal and the whole gang......
 
 - Please click the Link below for the animation presentation of Toronto Water Main Breaks from 1990-2016
   
-https://drive.google.com/file/d/15P-3mEyimaqKNkHr8xfjXN5tlsg3jMEi/view?usp=sharing
-
-https://secetmcs.maps.arcgis.com/apps/mapviewer/index.html?layers=87618f83d50640ba8be86493fd49b901 
+https://drive.google.com/file/d/19y6_zJNs8susx97xtr0UyFFsGXj--3VK/view?usp=sharing
 
 ![Screenshot 2023-09-17 105448](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/be9493bd-7664-4522-b3e0-ea9eacb297a7)
 
