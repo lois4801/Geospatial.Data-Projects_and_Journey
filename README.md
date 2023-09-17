@@ -1,7 +1,7 @@
 # Geospatial.Data-Projects_and_Journey
 Spatial and Non Spatial, Geospatial Data Analysis, Map Designing, Documenting and Reporting, Workflow and Asset Management
 
-- Thanks to all of my private and exlusive sponsors for this opportunity to be able to join and present GIS projects. Most specially to learn more about GIS from all the PROS on the field. Super happy to join you guys- Master Rafik, Master Kamal, Master Samir-   ^_^.
+- Thanks to all of my private and exlusive sponsors for this opportunity to be able to join and present GIS projects. Most specially to learn more about GIS from all the PROS on the field. Special Shoutout to Master Rafik, Master Kamal, Master Samir-   ^_^.
 - Thank you for entrusting me this 25grand dollars software. I will definitely make a good use of  it and maximize its fullest potential ehehehhehe
 
 ## Let's crushed it!!!
@@ -75,6 +75,7 @@ Laryssa, Raveen, Jamal and the whole gang......
 - Converted a GIS-related problem into a solution using the skills above and present the solution.
 ---------------------------------------------------------------------
 ## Skills Acquistion
+
 1. Geospatial Data
    - GIS Basics
    - Data Modeling
@@ -82,8 +83,16 @@ Laryssa, Raveen, Jamal and the whole gang......
    - Finding, collecting and documenting data
    - Data Visualization and map designing
    - Spatial Data Analysis
+     
 3. Geospatial Data Analysis
-4. Advance Geospatial Analys
+   - GIS application, Vector and Raster Analysis Basics
+   - Raster Data Modeling and Geoprocessing
+   - Raster and Terrain Analysis- Hydrologic Modelling
+   - Relational Database and Data Classifications
+   - Remote Sensing and Image Classification
+   - Privacy, Policy and Ethics studies
+  
+5. Advance Geospatial Analys
    - Geoprocessing automation and spatial interpolation
    - Areal Interpolation (MAUP) and Demographic Analysis
    - GIS in Health and Business Applications and Network Analysis
