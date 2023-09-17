@@ -162,10 +162,7 @@ Laryssa, Raveen, Jamal and the whole gang......
 
 ![Screenshot 2023-09-17 094751](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/ab5dc02d-2511-4298-ab13-e8e629c0e8b3)
 
-
-
 https://secetmcs.maps.arcgis.com/home/webscene/viewer.html?layers=87618f83d50640ba8be86493fd49b901 
-
 
 
 
