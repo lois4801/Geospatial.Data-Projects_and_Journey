@@ -162,14 +162,26 @@ Laryssa, Raveen, Jamal and the whole gang......
 
 ![Screenshot 2023-09-17 094751](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/ab5dc02d-2511-4298-ab13-e8e629c0e8b3)
 
-- Please click the Link below for the animation presentation of Toronto Water Main Breaks from 1990-2016
+##  Please click the Link below for the animation presentation of Toronto Water Main Breaks from 1990-2016
   
 https://drive.google.com/file/d/19y6_zJNs8susx97xtr0UyFFsGXj--3VK/view?usp=drive_link
 
 ![Screenshot 2023-09-17 105448](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/be9493bd-7664-4522-b3e0-ea9eacb297a7)
 
-- MY BLOG
+
+## MY BLOG in Parallel to the Data Presentation
   https://arcg.is/SniuT 
+
+## Joins Validation through Geodatabase and Geoprocessing for the MAP Creation
+
+![Screenshot 2023-09-17 185011](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/da966fd1-ea3f-4d70-8291-d5b10238abae)
+
+
+## Map Designing after attribution analysis and joins
+
+![SOLRIS_map](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/5e891fe2-c8cd-4a8f-ad02-6629e3871e00)
+
+
 
 
 
