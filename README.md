@@ -53,7 +53,7 @@ Laryssa, Raveen, Jamal and the whole gang......
 - 2D and 3D modelling
   - a. Optimization of energy consumption
   - b. Hydrological models for flood control
-  - c.Slope Stability
+  - c. Slope Stability
 
 Example 
 A public works official wants to know what streets or sidewalks will be affectedby potential flooding by considering increaes to average annual rainfall.
