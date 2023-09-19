@@ -229,7 +229,7 @@ https://drive.google.com/file/d/13oS_KsDVHpjecCVUsSDJ00m9tb6K7yTw/view?usp=drive
 
 
 Issue to the the slow exportation of the animation created is due to many variables or factors:
-- Rendering Quality :The quality at which the map features draw and export, such as antialiasing and rendering quality, can affect the export speed1.
+- Rendering Quality :The quality at which the map features draw and export, such as antialiasing and rendering quality, can affect the export speed.
 - Frame Rendering:  All non-draft movie exports wait for each frame in the video to finish drawing before moving to the next one. This increases the total export time but ensures all content is displayed1.
 - Elements with Keyframes: Numerous elements being saved with keyframes, such as labels, layer transparency, etc., can slow down the export process.
 - Animation Length: A longer animation will naturally take more time to export.
