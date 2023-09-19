@@ -70,7 +70,7 @@ A public works official wants to know what streets or sidewalks will be affected
 - Environmental modeling
   - a. Watershed managmeent programs
   - b. Climate change
-  - C. Contaminant fate and transport models etc
+  - c. Contaminant fate and transport models etc
 
   Example
   Protecting certain species around work zones
