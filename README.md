@@ -222,5 +222,11 @@ https://drive.google.com/file/d/19y6_zJNs8susx97xtr0UyFFsGXj--3VK/view?usp=drive
 
 
 
+## Animating 3D layering of Slabs production @ Rotterdam_City_Center
+![Screenshot 2023-09-19 141312](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/0b40adda-50db-4cf8-8ca1-05a8d0fe2de2)
+
+https://drive.google.com/file/d/13oS_KsDVHpjecCVUsSDJ00m9tb6K7yTw/view?usp=drive_link
+
+
 
 
