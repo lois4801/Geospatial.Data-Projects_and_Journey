@@ -228,5 +228,28 @@ https://drive.google.com/file/d/19y6_zJNs8susx97xtr0UyFFsGXj--3VK/view?usp=drive
 https://drive.google.com/file/d/13oS_KsDVHpjecCVUsSDJ00m9tb6K7yTw/view?usp=drive_link
 
 
+Issue to the the slow exportation of the animation created is due to many variables or factors:
+- Rendering Quality :The quality at which the map features draw and export, such as antialiasing and rendering quality, can affect the export speed1.
+- Frame Rendering:  All non-draft movie exports wait for each frame in the video to finish drawing before moving to the next one. This increases the total export time but ensures all content is displayed1.
+- Elements with Keyframes: Numerous elements being saved with keyframes, such as labels, layer transparency, etc., can slow down the export process.
+- Animation Length: A longer animation will naturally take more time to export.
+- Hardware Limitations:Despite meeting the recommended hardware requirements, some users have reported extremely slow render times when exporting animations
+
+
+Definition queries in ArcGIS Pro are used to define a subset of features to work with in a layer by filtering which features are retrieved from the dataset by the layer.
+
+
+
+ They are particularly useful in scenarios where you only want to work with and draw a subset of the features in a dataset. 
+For example:
+- From a dataset of world cities, working with only those with a population greater than 1 million.
+- From a dataset of hydrology lines, working with only perennial streams.
+- From a dataset of parcels, working with only those that are zoned commercial.
+
+It is important to note that the definition of queries affect not only drawing, but also which features appear in the layer’s attribute table and can be selected, labeled, identified, and processed by geoprocessing tools. 
+If we want to limit which features are drawn but retain all features from querying and processing, consider using display filters instead.
+
+
+
 
 
