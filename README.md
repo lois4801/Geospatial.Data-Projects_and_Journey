@@ -39,6 +39,45 @@ Laryssa, Raveen, Jamal and the whole gang......
 - Retail and Hospitality Business: Retail and hospitality businesses use the technology to help determine site locations and to profile consumers.
 - Real Estate: Real estate also uses location intelligence to help dictate site location and to determine the type of real estate.
 
+## Engineering and Environmental Geosciences Applications:
+- Sitting of infracture
+  a. water and sewer pipelines
+  b. highways,roadways and railways
+  c. Buildings, residences etc
+
+ - Monitoring programs
+   a. Indoor air quality
+   b. Indoor energy consumption
+   c. Surface- and/or ground water monitoring
+
+- 2D and 3D modelling
+  a. Optimization of energy consumption
+  b. Hydrological models for flood control
+  c.Slope Stability
+
+Example 
+A public works official wants to know what streets or sidewalks will be affectedby potential flooding by considering increaes to average annual rainfall.
+
+## Environmental Industry Applications
+- Environmental Assessments
+  a. Phase 1 and Phase 2 Assessments
+
+- Environmental monitoring programs
+  a. Surface water quality
+  b. Indoor air quality
+  c. Endangered species monitoring
+
+- Environmental modeling
+  a. Watershed managmeent programs
+  b. Climate change
+  C. Contaminant fate and transport models etc
+
+  Example
+  Protecting certain species around work zones
+  - GIS can collect attribute data about climate, elevation, slope, vegetation, fauna
+  - Merge data to discover possible nesting areas
+  - Buffer distances around work zone
+
 
 ------------------------------------------------------------------------------------
 # EXPERIENCE-->> GOALS
