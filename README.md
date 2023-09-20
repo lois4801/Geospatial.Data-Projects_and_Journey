@@ -251,5 +251,13 @@ If we want to limit which features are drawn but retain all features from queryi
 
 
 
+## Missouri River Basin Climate Station Mapping and Digital Elevation Modeling
+
+![ Missouri River Basin](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/63b5ab67-4461-4d26-9b1f-707746968d3e)
+
+![MultiSection Mapping](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/8f1bd123-c54a-4c1c-8758-ae797c2738e0)
+
+
+
 
 
