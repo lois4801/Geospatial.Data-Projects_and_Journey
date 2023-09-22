@@ -62,14 +62,14 @@ Output
 
 ![d11](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/a9aa52eb-bdd7-47aa-8ad2-c5c97f14d126)
 
-## AUTOMATED MODEL Designed
+
+## VALIDATION PHASE
+
+![validation](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/67fddf12-9990-44e8-9fd0-7cd137579bba)
+
+## AUTOMATED MODEL Designed FINAL
 
 ![Designed Automated Models](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/b82e639f-8c0d-48d8-a020-d7966cc47ff3)
-
-
-
-
-
 
 
 
