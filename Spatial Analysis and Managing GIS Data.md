@@ -17,3 +17,71 @@
 - In addition to the suite of tools, geoprocessing is also a powerful framework that supports control of the processing environment and allows you to build custom tools that can further automate your work.
 
 In summary, both ModelBuilder and geoprocessing tools in ArcGIS Pro are essential for automating GIS tasks, modeling, and analysis. They help in creating efficient workflows for spatial analysis and data management.
+-------------------------------------------------------------------------------------
+
+### Business Goal/ requirements
+- To relatively create a map required in a faster way
+- Using the model builder and geoprocessing to automate the whole process of buffing, clipping, selecting and intersecting data to produce the required map.
+
+### Process Flow
+- Analyzing the business requirements
+-	Gathering the data
+-	Analysis of the data
+-	Cleaning and transforming the data- Attributes, colors, sections, symbology editing, etc.
+-	Enforcing the process flow by sectioning techniques and resources to needed for the project
+-	Start creating the models
+-	Validating the model
+-	Checking the output
+-	Creating the map
+
+### Real time back end map creation during the automation process
+- This will be the same steps that I will be doing if I will do it manually.
+
+![d1](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/663591ef-9889-44bf-9519-8b639b0b9827)
+
+![d2](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/210184c2-3995-4f98-a701-c97a86499ec7)
+
+![d3](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/d1e86f80-a21a-402d-bb48-b0623345ef42)
+
+![d4](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/058c69a5-10b4-4142-a13f-ed7c81690780)
+
+![d5](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/f2678e8c-4741-4c4c-a8de-5510b9a8829b)
+
+![d6](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/cc5aff3f-4b9e-41a8-90c6-3c7715c16218)
+
+![d7](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/7cc11060-718b-44ae-bf75-cac209c3ba62)
+
+![d8](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/354116c6-34db-4bc6-94f8-6ed4e04495d1)
+
+![d9](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/267ef0b7-bb65-485d-9455-005c1d7e2e92)
+
+![d10](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/bec6955f-7435-439b-bce5-3d157c8a650d)
+
+Output 
+- You may be wondering how did this happen. The data that you are seeing right now visually were actually the 100m buff roads. Under it where the deciduous forests data.
+
+![d11](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/a9aa52eb-bdd7-47aa-8ad2-c5c97f14d126)
+
+## AUTOMATED MODEL Designed
+
+![Designed Automated Models](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/b82e639f-8c0d-48d8-a020-d7966cc47ff3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
