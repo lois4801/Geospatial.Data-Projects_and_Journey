@@ -92,6 +92,10 @@ Output
 
 
 
+- ONE HOT SPOT ANALYSIS- Solris Within Study Area
+
+![Screenshot 2023-09-23 154059](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/c538c164-cf51-431e-a65e-634507990255)
+  
 
 ![Screenshot 2023-09-23 102737](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/fd17bf8c-ed02-4174-8b7e-6bf25b808193)
 
