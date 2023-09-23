@@ -63,6 +63,9 @@ Output
 ![d11](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/a9aa52eb-bdd7-47aa-8ad2-c5c97f14d126)
 
 
+![under the major roads](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/0c608a41-8601-4f07-8b1a-31b2df780ebb)
+
+
 ## VALIDATION PHASE
 
 ![validation](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/67fddf12-9990-44e8-9fd0-7cd137579bba)
@@ -72,7 +75,14 @@ Output
 ![Designed Automated Models](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/b82e639f-8c0d-48d8-a020-d7966cc47ff3)
 
 
+## Deciduous Map 100m of Major Roads Ontario
 
+![Layout](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/9ae9eb92-88ee-42f3-a7ee-883620465fe5)
+
+
+-------------------------------------------
+
+## One Hot Spot Analysis of the Area
 
 
 
