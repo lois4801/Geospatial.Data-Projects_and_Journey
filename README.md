@@ -123,7 +123,7 @@ A public works official wants to know what streets or sidewalks will be affected
   - Created, editted, and visualizaed collected data in a format that allows for presentation.
   - Accessed, manipulate and apply drone-based data to create products.
   - Documented processes and procedures regarding to get certification in drone operations (Unmanned aerial vehicle - UAV Technology) and GISP certification.
-  - Converted ideas into solutionm, related to data collection tools and platforms.
+  - Converted ideas into solution, related to data collection tools and platforms.
 
 ## 5. GIS WORKFLOW AND ASSET MANAGEMENT
 - Created a GIS-based asset management solution using various products.
