@@ -81,8 +81,7 @@ Output
 
 -------------------------------------------
 
-## One Hot Spot Analysis 
-## Study Area VS  Deciduous AREA @100m major roads
+## One Hot Spot Analysis Deciduous AREA @100m major roads
 
 ### ONE HOT SPOT ANALYSIS- Deciduous Forest @100m Majoor Roads
 ![Deciduous Heat Map1](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/90d88283-ffb8-4562-8a24-1afc14185419)
@@ -91,15 +90,6 @@ Output
 ![Screenshot 2023-09-23 141811](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/f008c83c-5c21-4bf5-8df6-800249eb99c8)
 
 
-
-### ONE HOT SPOT ANALYSIS- Solris Within Study Area
-
-![Screenshot 2023-09-23 154059](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/c538c164-cf51-431e-a65e-634507990255)
-  
-
-![Screenshot 2023-09-23 102737](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/fd17bf8c-ed02-4174-8b7e-6bf25b808193)
-
-![legends](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/cc034501-3985-4f47-832c-24701c201c11)
 
 
 
