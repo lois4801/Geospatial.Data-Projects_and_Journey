@@ -55,7 +55,7 @@ In summary, both ModelBuilder and geoprocessing tools in ArcGIS Pro are essentia
 
 ![d9](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/267ef0b7-bb65-485d-9455-005c1d7e2e92)
 
-![d10](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/bec6955f-7435-439b-bce5-3d157c8a650d)
+
 
 Output 
 - You may be wondering how did this happen. The data that you are seeing right now visually were actually the 100m buff roads. Under it where the deciduous forests data.
