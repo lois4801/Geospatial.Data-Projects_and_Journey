@@ -99,8 +99,8 @@ Output
 
 ![Screenshot 2023-09-23 102737](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/fd17bf8c-ed02-4174-8b7e-6bf25b808193)
 
+![legends](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/cc034501-3985-4f47-832c-24701c201c11)
 
-![Hottest area](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/61f96fb9-579f-40cc-986f-3f7e480af999)
 
 
 
