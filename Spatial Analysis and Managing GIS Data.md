@@ -49,7 +49,7 @@ In summary, both ModelBuilder and geoprocessing tools in ArcGIS Pro are essentia
 
 ![d6](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/cc5aff3f-4b9e-41a8-90c6-3c7715c16218)
 
-![d7](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/7cc11060-718b-44ae-bf75-cac209c3ba62)
+![Screenshot 2023-09-23 152413](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/b617218b-2d2d-4d34-8c05-e4c379a805fc)
 
 ![d8](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/354116c6-34db-4bc6-94f8-6ed4e04495d1)
 
