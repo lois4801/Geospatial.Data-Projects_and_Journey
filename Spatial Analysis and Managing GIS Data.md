@@ -81,7 +81,15 @@ Output
 
 -------------------------------------------
 
-## One Hot Spot Analysis in the Study Area VS  Deciduous AREA @100m major roads
+## One Hot Spot Analysis 
+## Study Area VS  Deciduous AREA @100m major roads
+
+![Screenshot 2023-09-23 153110](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/131dd32c-e27f-4c4c-b889-eb76ce94723d)
+
+![Screenshot 2023-09-23 141811](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/f008c83c-5c21-4bf5-8df6-800249eb99c8)
+
+
+
 
 ![Screenshot 2023-09-23 102737](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/fd17bf8c-ed02-4174-8b7e-6bf25b808193)
 
