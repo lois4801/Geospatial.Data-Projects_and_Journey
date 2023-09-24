@@ -16,7 +16,8 @@
 - For example, the Buffer tool takes features as input, creates buffer areas around the features to a specified distance, and writes those buffer areas to a new output dataset.
 - In addition to the suite of tools, geoprocessing is also a powerful framework that supports control of the processing environment and allows you to build custom tools that can further automate your work.
 
-In summary, both ModelBuilder and geoprocessing tools in ArcGIS Pro are essential for automating GIS tasks, modeling, and analysis. They help in creating efficient workflows for spatial analysis and data management.
+- In summary, both ModelBuilder and geoprocessing tools in ArcGIS Pro are essential for automating GIS tasks, modeling, and analysis. They help in creating efficient workflows for spatial analysis and data management.
+
 -------------------------------------------------------------------------------------
 
 ### Business Goal/ requirements
@@ -91,8 +92,59 @@ Output
 
 
 
+---------------------------------------
+## Multicriteria (SPATIAL) Decision Support System (MDSS) and Geoprocessing
+- Uses multiple variables and criteria to come up with scenarios to help make decisions.
+- A retail store finding the perfect place to open using spatial geoprocessing takes into account the following
+   - Proximity to a location
+   - Land AVailability
+   - Land value
+   - Demographics
+   - Market Segmentation
+   - Potential sales
+   - ROI ( return of investment)
+ 
+-----------------------------     
+## ArcGIS Scripting :ArcPy
+- Modules
+    - single file that is imported under import
+- Functions
+    - specific bit of functionality that completes a task
+- Tools
+    - tooldboxes using scripts
+- Classes
+   - Create a data structure to contain other pertinent information
+ -------------------------------
+  ## Lidar
+  - Stands for Light Detection and ranging is a remote sensing method that uses light in the form of a pulsed laser to measure ranges( variable distances) to the earth.
+
+ - LOCATION ANALYSIS FOR SOLAR PANELS
+
+-----------------------------------------
+## Spatial Interpolation (https://youtu.be/i0Zrk68EkFE)
+- Technique that uses geocoded sample values to estimate values at unknown points/ areas.
+  
+- Deterministic Spatial Interpolation
+   - Uses mathematical formula to measure the similarity or degree of smoothing. Example-->_ INVERSE DISTANCE WEIGHING (IDW)_
+
+- Geostatiscial Spatial Interpolation 
+  - Uses spatial properties to quantify and measure spatial autocorrelations and predic values based on them. Example ---> _KRINGING METHOD_
+
+### Applications
+- Estimating rainfall and temperature where direct measurement is not feasible
+- Estimating surgace between measured locations of a digital elevation
+- Resampling raster data transfer info to another grid(raster)
+- Creating map contours.
 
 
+
+### Use Cases
+- Hydrology
+- Soil
+- Agriculture
+- Weather and Climate ( ex. temperature and precipitation)
+- Atmosphere (ex pollutants)
+- Land use and topography
 
 
 
