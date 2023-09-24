@@ -7,10 +7,10 @@
        
 - 3. Editing
      - Includes data confirmation/ validation and making neccesary adjustments to ensure that the correct information is captured. This stage also can include an enhancement of the quality
-     - 
+       
 - 5. Evaluation
      - The assessment of project completion with success
-  
+       
 - 7. Ongoing Monitoring
      - The data collection processes and the quality of the existing workflow if they requirement continuation.
 
