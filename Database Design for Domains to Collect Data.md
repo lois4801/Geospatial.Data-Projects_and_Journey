@@ -19,6 +19,19 @@
 
 https://blog.junipersys.com/13-gis-data-collection-apps-for-professionals/
 
+-------------------
+### Data Collection Challenges
+- QUALITY, PRICE, SPEED
+- Collecting high quality data quicky is possible, but it cost significantly more than a regular project.
+
+ ![Screenshot 2023-09-24 163056](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/4fe68c09-2b2a-4e7a-913d-47c2b0bb5f1c)
+
+
+
+
+
+-----------------------------------
+
 
 # DATABASE Design For Data Collection in GIS
 
