@@ -17,6 +17,7 @@
 
 ![Screenshot 2023-09-24 144902](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/51503043-9bdf-427c-a943-58f9772a5521)
 
+https://blog.junipersys.com/13-gis-data-collection-apps-for-professionals/
 
 
 # DATABASE Design For Data Collection in GIS
