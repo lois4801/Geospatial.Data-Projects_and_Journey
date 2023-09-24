@@ -39,7 +39,7 @@
 
 ## Process Flow
 - 1. Design a database
-- 2.Create a geodatabase and domain
+- 2. Create a geodatabase and domain
 - 3. Create features
 - 4. Create attachments
 - 5. Create attributes
