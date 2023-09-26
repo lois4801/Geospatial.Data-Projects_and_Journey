@@ -1,3 +1,16 @@
+###
+GEODATA sources
+
+- https://canadiangis.com/data.php
+
+- https://geohub.lio.gov.on.ca/
+
+- https://geonova.novascotia.ca/geodata
+
+- https://guides.library.ualberta.ca/c.php?g=301218&p=5104007
+
+
+
 ### Data Collection Workflow
 - 1. Planning
      - Can include identifying use requirements, acquiring resources (software and hardware) developing timelines and preparing project plans.
