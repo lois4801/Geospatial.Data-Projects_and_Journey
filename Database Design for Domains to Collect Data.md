@@ -4,10 +4,12 @@ GEODATA sources
 - https://canadiangis.com/data.php
 
 - https://geohub.lio.gov.on.ca/
+- 
+- https://guides.library.ualberta.ca/c.php?g=301218&p=5104007
 
 - https://geonova.novascotia.ca/geodata
-
-- https://guides.library.ualberta.ca/c.php?g=301218&p=5104007
+  
+- https://catalogue-hrm.opendata.arcgis.com/search?collection=Dataset 
 
 
 
