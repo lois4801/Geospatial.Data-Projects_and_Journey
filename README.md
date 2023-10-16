@@ -134,6 +134,9 @@ T- ransportation and Logistics: GIS is vital for route optimization, traffic ana
 # EXPERIENCE-->> GOALS
 
 ## 1. GEOSPATIAL DATA
+- PORTFOLIO COMPLETED
+-  --> Click here for more informationhttps://drive.google.com/file/d/1V7hVORuzczq8-H-JU05csmHS8-fbWJL9/view?usp=drive_link
+
 - Selected appropriate data types for data collection or creation
 - Identified the non-spatial information that is needed for a specifc application
 - Documented data using established standards
