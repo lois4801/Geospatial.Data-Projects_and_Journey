@@ -134,8 +134,8 @@ T- ransportation and Logistics: GIS is vital for route optimization, traffic ana
 # EXPERIENCE-->> GOALS
 
 ## 1. GEOSPATIAL DATA
-- PORTFOLIO COMPLETED
--  --> Click here for more informationhttps://drive.google.com/file/d/1V7hVORuzczq8-H-JU05csmHS8-fbWJL9/view?usp=drive_link
+**- PORTFOLIO COMPLETED
+-  --> Click here for more information [https://drive.google.com/file/d/1V7hVORuzczq8-H-JU05csmHS8-fbWJL9/view?usp=drive_link](https://drive.google.com/file/d/1V7hVORuzczq8-H-JU05csmHS8-fbWJL9/view?usp=drive_link) **
 
 - Selected appropriate data types for data collection or creation
 - Identified the non-spatial information that is needed for a specifc application
@@ -148,6 +148,8 @@ T- ransportation and Logistics: GIS is vital for route optimization, traffic ana
 - Documented and reported on all stages of the data collection/creation and analysis process
 
 ## 2. GEOSPATIAL DATA ANALYSIS
+**- PORTFOLIO COMPLETED
+-  --> Click here for more information  [https://drive.google.com/file/d/1V7hVORuzczq8-H-JU05csmHS8-fbWJL9/view?usp=drive_lin](https://drive.google.com/file/d/1eyOWMsWLjH3YK79Gv3pERf8TselwmUJb/view?usp=drive_link)k**
 - Completed vector analysis using spatial analysis tools (such as buffer analysis, clip analysis, proximity analyses).
 - Conducted raster analysis such as zonal statistics using desktop GIS software.
 - Delineated watershed boundary using advanced modelling and DEM data.
@@ -159,6 +161,10 @@ T- ransportation and Logistics: GIS is vital for route optimization, traffic ana
 -  Developed solutions using vector and raster analysis.
 
 ## 3. ADVANCED GEOSPATIAL ANALYSIS
+**- PORTFOLIO COMPLETED
+-  --> Click here for more information https://drive.google.com/file/d/1MZQZwqBLhB0Mo9XVrSh6jH2Sr17mXq7O/view?usp=drive_link **
+  
+  
 - Set up advanced models using model builder using GIS desktop software.
 - Created GIS python scripts from models and ArcToolbox using built-in functionalities of GIS software.
 - Used spatial interpolation methods within spatial statistics toolsets for interpolation methods and understand related terminologies such as semivariogram modelling.
