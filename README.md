@@ -139,7 +139,6 @@ T- ransportation and Logistics: GIS is vital for route optimization, traffic ana
 - --->**STORY MAP VIEW** https://storymaps.arcgis.com/stories/a89df768d74342248fafc231c564daff
 
 -  --> **Click here for more information** [https://drive.google.com/file/d/1V7hVORuzczq8-H-JU05csmHS8-fbWJL9/view?usp=drive_link](https://drive.google.com/file/d/1V7hVORuzczq8-H-JU05csmHS8-fbWJL9/view?usp=drive_link)
--  
 
 - Selected appropriate data types for data collection or creation
 - Identified the non-spatial information that is needed for a specifc application
@@ -158,7 +157,9 @@ T- ransportation and Logistics: GIS is vital for route optimization, traffic ana
 **PORTFOLIO COMPLETED**
 
 -  -->**STORY MAP VIEW** https://storymaps.arcgis.com/stories/ba1f14db47eb4828ba535a2fd40b95c6
+  
 -  --> **Click here for more information**  [https://drive.google.com/file/d/1V7hVORuzczq8-H-JU05csmHS8-fbWJL9/view?usp=drive_lin](https://drive.google.com/file/d/1eyOWMsWLjH3YK79Gv3pERf8TselwmUJb/view?usp=drive_link)k**
+  
 - Completed vector analysis using spatial analysis tools (such as buffer analysis, clip analysis, proximity analyses).
 - Conducted raster analysis such as zonal statistics using desktop GIS software.
 - Delineated watershed boundary using advanced modelling and DEM data.
@@ -175,7 +176,8 @@ T- ransportation and Logistics: GIS is vital for route optimization, traffic ana
 
 **- PORTFOLIO COMPLETED**
 
-- --->**STORY MAP VIEW** https://storymaps.arcgis.com/stories/6e8b31cbbe3c4cf2b4c8971fd14e3a83 
+- --->**STORY MAP VIEW** https://storymaps.arcgis.com/stories/6e8b31cbbe3c4cf2b4c8971fd14e3a83
+  
 -  --> **Click here for more information** [https://drive.google.com/file/d/1MZQZwqBLhB0Mo9XVrSh6jH2Sr17mXq7O/view?usp=drive_link](https://drive.google.com/file/d/1MZQZwqBLhB0Mo9XVrSh6jH2Sr17mXq7O/view?usp=drive_link) 
   
   
@@ -189,6 +191,12 @@ T- ransportation and Logistics: GIS is vital for route optimization, traffic ana
 - Converted a GIS-related problem into a solution using the skills above and present the solution.
 
 ## 4. GIS DATA COLLECTION TECHNOLOGIES/TECHNIQUES
+**- PORTFOLIO COMPLETED**
+
+- --->**STORY MAP VIEW**
+  
+-  --> **Click here for more information**
+  
   - Assessed different types of open source and commercial data collection tools and technology.
   - Set up account and use open and citizen science data collection platform for data collection.
   - Identified form-based versus map based data collection platforms.
@@ -200,6 +208,12 @@ T- ransportation and Logistics: GIS is vital for route optimization, traffic ana
   - Converted ideas into solution, related to data collection tools and platforms.
 
 ## 5. GIS WORKFLOW AND ASSET MANAGEMENT
+**- PORTFOLIO COMPLETED**
+
+- --->**STORY MAP VIEW**
+  
+-  --> **Click here for more information** 
+
 - Created a GIS-based asset management solution using various products.
 - Created a geodatabase and design relationships in the database.
 - Configured data layers to allow the attachment of photos for asset-based information collection.
