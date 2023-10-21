@@ -348,26 +348,26 @@ If we want to limit which features are drawn but retain all features from queryi
 # USE CASES 1
 # Aggregate and Buffer tools within ArcGIS Pro to conduct asset inventory analysis for a utility company that manages water infrastructure.
 
-## Business Requirements and Background
+## **Business Requirements and Background**
 - Working for a water utility company responsible for maintaining a network of water distribution pipelines. The company needs to optimize its asset management by conducting an inventory analysis of its water valves. The goal is to identify areas where valve maintenance is most needed, taking into account the proximity to critical infrastructure and the condition of the valves.
 
-## Steps to Use Aggregate and Buffer Tools:
-### 1.	Data Preparation:
-- •	Collect and compile data on the water valves in your network. This data should include the location of each valve, its condition
+## **Steps to Use Aggregate and Buffer Tools:**
+**1.	Data Preparation:**
+    - Collect and compile data on the water valves in your network. This data should include the location of each valve, its condition
   (good, fair, poor), and its criticality rating (low, medium, high).
-- •	Acquire geographic data for critical infrastructure, such as hospitals, schools, and emergency services, as well as water mains, which
-  are key components of your network.
+    - Acquire geographic data for critical infrastructure, such as hospitals, schools, and emergency services, as well as water mains,
+      which are key components of your network.
   
-### 2.	Aggregate Valves by Condition:
-- •	Open ArcGIS Pro and load the water valve data into your project.
-- •	Use the Aggregate Points tool to group valves by condition (good, fair, poor) within specific geographic areas. This will help you
-- identify clusters of valves with similar conditions.
+** 2.	Aggregate Valves by Condition:**
+      - Open ArcGIS Pro and load the water valve data into your project.
+      - Use the Aggregate Points tool to group valves by condition (good, fair, poor) within specific geographic areas. This will help you
+      identify clusters of valves with similar conditions.
 
-### 3.	Buffer Critical Infrastructure:
-- •	Load the critical infrastructure data into your project.
-- •	Use the Buffer tool to create a buffer zone around critical infrastructure features, with different buffer distances for low, medium,
-  and high criticality.
-- •	This step helps you identify areas where the water valves are located in proximity to critical facilities.
+**3.	Buffer Critical Infrastructure:**
+     - Load the critical infrastructure data into your project.
+     - Use the Buffer tool to create a buffer zone around critical infrastructure features, with different buffer distances for low,medium,
+     and high criticality.
+     - This step helps you identify areas where the water valves are located in proximity to critical facilities.
 
 ### 4.	Overlay Analysis:
 - •	Overlay the aggregated valve data from step 2 and the buffered critical infrastructure data from step 3.
@@ -392,36 +392,36 @@ Business Requirements and Background
 Working in the urban planning department of a city, need to develop a comprehensive urban development plan. In this scenario, you want to integrate ArcGIS Online data with local data to make informed decisions about the city's future development.
 The city has been experiencing rapid growth, and tasked with creating an urban development plan that addresses infrastructure, transportation, green spaces, and affordable housing. To make data-driven decisions, I will  combine ArcGIS Online data with locally collected information.
 
-Steps to Integrate ArcGIS Online Data with Local Data
+**Steps to Integrate ArcGIS Online Data with Local Data**
 
-1. Collect Local Data:
+**1. Collect Local Data:**
    - Start by gathering local data, which may include records of land use, zoning regulations, property tax assessments, historical development plans, and local demographic information.
 
-2. Access ArcGIS Online Data:
+**2. Access ArcGIS Online Data:**
    - Open ArcGIS Pro and connect to ArcGIS Online. Access relevant datasets such as topographic maps, aerial imagery, land cover data, and transportation networks.
 
-3. Data Harmonization:
+**3. Data Harmonization:**
    - Examine the data formats and coordinate systems of both your local data and the ArcGIS Online data to ensure they align. Use transformation tools if necessary to harmonize spatial references.
 
-4. Overlay and Analysis:
+**4. Overlay and Analysis:**
    - Overlay your local data with the ArcGIS Online data layers. For instance, you can overlay land use zoning from local data with transportation network data from ArcGIS Online to identify areas where zoning regulations may need adjustment to improve transportation accessibility.
 
-5. Demographic Analysis:
+**5. Demographic Analysis:**
    - Integrate demographic data from ArcGIS Online, such as population density and income levels, with your local data to identify areas with higher housing demand. This can inform decisions on where to focus affordable housing projects.
 
-6. Environmental Analysis:
+**6. Environmental Analysis:**
    - Overlay environmental data from ArcGIS Online, like vegetation indices and ecological sensitivity, with your local data to identify green spaces and environmentally sensitive areas that should be preserved or enhanced.
 
-7. Visualization and Decision-Making:
+**7. Visualization and Decision-Making:**
    - Create maps and 3D visualizations within ArcGIS Pro that display the integrated data, making it easier for city planners and stakeholders to understand the relationships between local and ArcGIS Online data.
 
-8. Public Engagement:
+**8. Public Engagement:**
    - Share the interactive maps and visualizations online to involve the public in the decision-making process. Gather feedback and opinions from citizens on proposed development plans.
-
-9. Scenario Analysis:
+**
+9. Scenario Analysis:**
    - Run various urban development scenarios, adjusting parameters like zoning, transportation network expansion, and green space preservation. Evaluate the impact of each scenario on factors like traffic congestion, housing availability, and environmental conservation.
 
-10. Recommendations:
+**10. Recommendations:**
     - Based on the analysis and feedback, make informed recommendations for the city's urban development plan. These recommendations can include zoning changes, transportation improvements, and affordable housing initiatives.
 
 By integrating ArcGIS Online data with local data, you can create a comprehensive urban development plan that takes advantage of geospatial insights, local context, and public engagement. This approach ensures that your city's growth and development are well-informed, sustainable, and responsive to the needs of its residents.
