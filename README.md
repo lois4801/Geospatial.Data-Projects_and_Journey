@@ -356,7 +356,7 @@ If we want to limit which features are drawn but retain all features from queryi
 - Collect and compile data on the water valves in your network. This data should include the location of each valve, its condition(good, fair, poor), and its criticality rating (low, medium, high).
 - Acquire geographic data for critical infrastructure, such as hospitals, schools, and emergency services, as well as water mains, which are key components of your network.
   
-** 2.	Aggregate Valves by Condition:**
+**2.	Aggregate Valves by Condition:**
 - Open ArcGIS Pro and load the water valve data into your project.
 - Use the Aggregate Points tool to group valves by condition (good, fair, poor) within specific geographic areas. This will help you identify clusters of valves with similar conditions.
 
