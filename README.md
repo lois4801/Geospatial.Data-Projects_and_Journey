@@ -353,36 +353,32 @@ If we want to limit which features are drawn but retain all features from queryi
 
 ## **Steps to Use Aggregate and Buffer Tools:**
 **1.	Data Preparation:**
-    - Collect and compile data on the water valves in your network. This data should include the location of each valve, its condition
-  (good, fair, poor), and its criticality rating (low, medium, high).
-    - Acquire geographic data for critical infrastructure, such as hospitals, schools, and emergency services, as well as water mains,
-      which are key components of your network.
+- Collect and compile data on the water valves in your network. This data should include the location of each valve, its condition(good, fair, poor), and its criticality rating (low, medium, high).
+- Acquire geographic data for critical infrastructure, such as hospitals, schools, and emergency services, as well as water mains, which are key components of your network.
   
 ** 2.	Aggregate Valves by Condition:**
-      - Open ArcGIS Pro and load the water valve data into your project.
-      - Use the Aggregate Points tool to group valves by condition (good, fair, poor) within specific geographic areas. This will help you
-      identify clusters of valves with similar conditions.
+- Open ArcGIS Pro and load the water valve data into your project.
+- Use the Aggregate Points tool to group valves by condition (good, fair, poor) within specific geographic areas. This will help you identify clusters of valves with similar conditions.
 
 **3.	Buffer Critical Infrastructure:**
-     - Load the critical infrastructure data into your project.
-     - Use the Buffer tool to create a buffer zone around critical infrastructure features, with different buffer distances for low,medium,
-     and high criticality.
-     - This step helps you identify areas where the water valves are located in proximity to critical facilities.
+- Load the critical infrastructure data into your project.
+- Use the Buffer tool to create a buffer zone around critical infrastructure features, with different buffer distances for low,medium, and high criticality.
+- This step helps you identify areas where the water valves are located in proximity to critical facilities.
 
-### 4.	Overlay Analysis:
-- •	Overlay the aggregated valve data from step 2 and the buffered critical infrastructure data from step 3.
-- •	Use the Spatial Join tool to determine which aggregated valve clusters intersect with the buffer zones around critical infrastructure. This will help identify areas with valves close to critical facilities.
+**4.	Overlay Analysis:**
+- Overlay the aggregated valve data from step 2 and the buffered critical infrastructure data from step 3.
+- Use the Spatial Join tool to determine which aggregated valve clusters intersect with the buffer zones around critical infrastructure. This will help identify areas with valves close to critical facilities.
 
-### 5.	Prioritization:
-- •	Apply a scoring system to the overlay results. For example, give higher scores to valve clusters in poor condition that are closer to
+**5.	Prioritization:**
+- Apply a scoring system to the overlay results. For example, give higher scores to valve clusters in poor condition that are closer to
 - high-criticality facilities.
-- •	Prioritize maintenance or replacement based on these scores.
+- Prioritize maintenance or replacement based on these scores.
 
-### 6.	Map and Report Generation:
-- •	Create maps and reports within ArcGIS Pro to visualize the prioritized areas and share the findings with the maintenance team.
-- •	These maps can highlight specific locations, clusters, and valve condition details, making it easy for field crews to understand the priorities.
+**6.	Map and Report Generation:**
+- Create maps and reports within ArcGIS Pro to visualize the prioritized areas and share the findings with the maintenance team.
+- These maps can highlight specific locations, clusters, and valve condition details, making it easy for field crews to understand the priorities.
 
-### Conclusion
+**Conclusion**
 By using the Aggregate and Buffer tools in ArcGIS Pro, you can efficiently analyze your water valve inventory and prioritize maintenance efforts, ensuring that critical infrastructure is protected, and resources are allocated effectively. This approach improves the overall efficiency and reliability of your water distribution network.
 
 --------------------------------------------------------------
@@ -417,8 +413,8 @@ The city has been experiencing rapid growth, and tasked with creating an urban d
 
 **8. Public Engagement:**
    - Share the interactive maps and visualizations online to involve the public in the decision-making process. Gather feedback and opinions from citizens on proposed development plans.
-**
-9. Scenario Analysis:**
+
+**9. Scenario Analysis:**
    - Run various urban development scenarios, adjusting parameters like zoning, transportation network expansion, and green space preservation. Evaluate the impact of each scenario on factors like traffic congestion, housing availability, and environmental conservation.
 
 **10. Recommendations:**
