@@ -304,9 +304,15 @@ https://drive.google.com/file/d/19y6_zJNs8susx97xtr0UyFFsGXj--3VK/view?usp=drive
 ![Screenshot 2023-09-17 185011](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/da966fd1-ea3f-4d70-8291-d5b10238abae)
 
 
-## Map Designing after attribution analysis and joins
+## Map Designing after data and attribution analysis and joins etc,
 
 ![SOLRIS_map](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/5e891fe2-c8cd-4a8f-ad02-6629e3871e00)
+
+
+![Layout](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/d944697a-34ef-4fc4-8c83-3c6cbb7ee7c9)
+
+
+![Deciduous Forest Heat Map1](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/07660a98-95e5-4dc0-bbea-918081b43316)
 
 
 
