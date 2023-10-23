@@ -217,7 +217,7 @@ T- ransportation and Logistics: GIS is vital for route optimization, traffic ana
 - Created a GIS-based asset management solution using various products.
 - Created a geodatabase and design relationships in the database.
 - Configured data layers to allow the attachment of photos for asset-based information collection.
-- Selecte the appropriate data type based on the assets.
+- Selected the appropriate data type based on the assets.
 - Evaluated software tools in the ARCGIS system, including mobile and webapp, and apply appropriate tools to solve an organizational need.
 - Developed solutions to asset management issues and present them.
 - Applied basic principles of project management to asset management scenarios.
