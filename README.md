@@ -136,7 +136,7 @@ T- ransportation and Logistics: GIS is vital for route optimization, traffic ana
 ## 1. GEOSPATIAL DATA
 
 **PORTFOLIO COMPLETED**
-- --->**STORY MAP VIEW** https://storymaps.arcgis.com/stories/a89df768d74342248fafc231c564daff
+- --->**STORY MAP VIEW** https://arcg.is/1mWrSC0 
 
 -  --> **Click here for more information** [https://drive.google.com/file/d/1V7hVORuzczq8-H-JU05csmHS8-fbWJL9/view?usp=drive_link](https://drive.google.com/file/d/1V7hVORuzczq8-H-JU05csmHS8-fbWJL9/view?usp=drive_link)
 
@@ -156,7 +156,7 @@ T- ransportation and Logistics: GIS is vital for route optimization, traffic ana
 
 **PORTFOLIO COMPLETED**
 
--  -->**STORY MAP VIEW** https://storymaps.arcgis.com/stories/ba1f14db47eb4828ba535a2fd40b95c6
+-  -->**STORY MAP VIEW** https://arcg.is/00v5vG
   
 -  --> **Click here for more information**  [https://drive.google.com/file/d/1V7hVORuzczq8-H-JU05csmHS8-fbWJL9/view?usp=drive_lin](https://drive.google.com/file/d/1eyOWMsWLjH3YK79Gv3pERf8TselwmUJb/view?usp=drive_link)k**
   
@@ -176,7 +176,7 @@ T- ransportation and Logistics: GIS is vital for route optimization, traffic ana
 
 **- PORTFOLIO COMPLETED**
 
-- --->**STORY MAP VIEW** https://storymaps.arcgis.com/stories/6e8b31cbbe3c4cf2b4c8971fd14e3a83
+- --->**STORY MAP VIEW** https://arcg.is/1mOL0n
   
 -  --> **Click here for more information** [https://drive.google.com/file/d/1MZQZwqBLhB0Mo9XVrSh6jH2Sr17mXq7O/view?usp=drive_link](https://drive.google.com/file/d/1MZQZwqBLhB0Mo9XVrSh6jH2Sr17mXq7O/view?usp=drive_link) 
   
@@ -193,7 +193,7 @@ T- ransportation and Logistics: GIS is vital for route optimization, traffic ana
 ## 4. GIS DATA COLLECTION TECHNOLOGIES/TECHNIQUES
 **- PORTFOLIO COMPLETED**
 
-- --->**STORY MAP VIEW**
+- --->**STORY MAP VIEW** https://arcg.is/1mOL0n
   
 -  --> **Click here for more information**
   
@@ -210,7 +210,7 @@ T- ransportation and Logistics: GIS is vital for route optimization, traffic ana
 ## 5. GIS WORKFLOW AND ASSET MANAGEMENT
 **- PORTFOLIO COMPLETED**
 
-- --->**STORY MAP VIEW**
+- --->**STORY MAP VIEW** https://arcg.is/14mKOD0
   
 -  --> **Click here for more information** 
 
