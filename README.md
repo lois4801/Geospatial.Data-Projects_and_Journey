@@ -354,16 +354,16 @@ If we want to limit which features are drawn but retain all features from queryi
 ### In ArcGIS Pro, when you observe a pattern of steeper slopes following a trend on a Digital Elevation Model (DEM) raster, it often indicates the presence of specific topographic and geological features. Here's an explanation of what these patterns may represent and why some areas have wider valleys while others do not:
 
 
-1.Steeper Slopes Flowing a Trend:
+**1.Steeper Slopes Flowing a Trend:**
 
 Ridge and Valley Systems: In many cases, a pattern of steeper slopes following a trend can indicate the presence of ridge and valley systems. This could be a result of tectonic activity, where the Earth's crust has been folded or faulted. In such regions, you might find parallel ridges (the steeper slopes) and valleys, indicating structural features of the landscape.
 
 
-2.Valley Width Variation:
+**2.Valley Width Variation:**
 
 Geological Variation: Differences in valley width are often related to the underlying geology. Some valleys may be wider because they are located in areas with softer or more easily erodible rock types, which allows for the expansion of the valley over time. In contrast, narrower valleys may occur in regions with harder, resistant rock types that are more difficult to erode.
 
-3.Representation of Valleys with Contours:
+**3.Representation of Valleys with Contours:**
 
 Contour Intervals: The representation of valleys in 10 or 100m contours will significantly affect how well you can observe these features.
 10m Contours: Using finer 10m contours will provide a more detailed representation of the terrain, making it easier to identify smaller valleys and subtle topographic features.
