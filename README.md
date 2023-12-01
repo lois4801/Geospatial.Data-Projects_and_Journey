@@ -473,10 +473,14 @@ The city has been experiencing rapid growth, and tasked with creating an urban d
 
 By integrating ArcGIS Online data with local data, you can create a comprehensive urban development plan that takes advantage of geospatial insights, local context, and public engagement. This approach ensures that your city's growth and development are well-informed, sustainable, and responsive to the needs of its residents.
 
+-----------------------------------------------------------
+# Python Scripting in Model Builder
+- Python scripting in ModelBuilder in ArcGIS Pro. A simple model that uses the Buffer and Dissolve tools to create a dissolved buffer around a set of input points. The Python script tool is used to calculate the total area of the dissolved buffer.
 
 
+![Screenshot 2023-12-01 151951](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/62039b17-14ef-43a9-8f74-4cdfe2a904a8)
 
-
-
-
+** create a new model in ModelBuilder. Then, you would add the Buffer and Dissolve tools to the model. You would connect the output of the Buffer tool to the input of the Dissolve tool.
+** Next, you would create a new Python script tool. In the script tool, you would write a script that uses the arcpy module to calculate the total area of the dissolved buffer.
+** add the Python script tool to the model and connect the output of the Dissolve tool to the input of the script tool. When you run the model, it would create a dissolved buffer around the input points and then calculate and print the total area of the dissolved buffer.
 
