@@ -2,13 +2,11 @@
 Spatial and Non Spatial, Geospatial Data Analysis, Map Designing, Documenting and Reporting, Workflow and Asset Management
 
 - Thanks to all of my private and exlusive sponsors for this opportunity to be able to join and present GIS projects. Most specially to learn more about GIS from all the PROS on the field.
-- Special Shoutout to Master Rafik, Master Kamal, Master Samir-   ^_^.
-- Thank you for entrusting me this 25grand dollars software. I will definitely make a good use of  it and maximize its fullest potential ehehehhehe
+- Special Shoutout to Master Rafik, Master Kamal, Master Samir-   ^_^. Thank you for entrusting me this 25grand dollars software.
 
 ## Let's Break A Leg!!!
 Laryssa, Raveen, Jamal and the whole gang......
 
-## 5 Projects incoming--in progress- stay tuned
 ------------------------------------------------------
 ## Issues and Questions and Troubleshooting during my Project Formulation.
 
