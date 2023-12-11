@@ -484,3 +484,12 @@ By integrating ArcGIS Online data with local data, you can create a comprehensiv
 2. Next, you would create a new Python script tool. In the script tool, you would write a script that uses the arcpy module to calculate the total area of the dissolved buffer.
 3. add the Python script tool to the model and connect the output of the Dissolve tool to the input of the script tool. When you run the model, it would create a dissolved buffer around the input points and then calculate and print the total area of the dissolved buffer.
 
+
+
+
+#SUCCESS
+
+- https://badges.ecampusontario.ca/app/profile/18218
+
+![Screenshot 2023-12-11 022547](https://github.com/lois4801/Geospatial.Data-Projects_and_Journey/assets/96842662/55624862-6072-4d78-b1e3-c10a7d68ce6c)
+
