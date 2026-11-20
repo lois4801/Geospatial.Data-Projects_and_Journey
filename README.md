@@ -1,4 +1,4 @@
-# Geospatial.Data-Projects_and_Journey (GIS )
+# Geospatial.Data-Projects_and_Journey (GIS- Seneca College with BADGE)
 Spatial and Non Spatial, Geospatial Data Analysis, Map Designing, Documenting and Reporting, Workflow and Asset Management
 
 - Thanks to all of my private and exlusive sponsors for this opportunity to be able to join and present GIS projects. Most specially to learn more about GIS from all the PROS on the field.
